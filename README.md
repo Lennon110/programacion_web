@@ -62,7 +62,3 @@ docker pull lennon110/mi-sitio-web:latest
 ```bash
 docker run -d -p 8080:80 lennon110/mi-sitio-web
 ```
-
-docker build -t lennon110/mi-sitio-web:latest .
-
-docker push lennon110/mi-sitio-web:latest
