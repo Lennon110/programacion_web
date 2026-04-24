@@ -11,4 +11,4 @@ COPY . /usr/share/nginx/html
 EXPOSE 80
 
 # Ejecutar nginx
-CMD ["nginx", "-g", "daemon off;"]ö
+CMD ["nginx", "-g", "daemon off;"]
